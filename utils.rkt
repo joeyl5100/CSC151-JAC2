@@ -2,7 +2,7 @@
 (require gigls/unsafe)
 
 ;;; File:
-;;;   utils.rkt
+;;;   CSC151-JAC2/utils.rkt
 ;;; Author:
 ;;;   Joey, Abraham and Corey
 ;;; Summary:
