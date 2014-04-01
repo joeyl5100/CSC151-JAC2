@@ -1,5 +1,12 @@
 #lang racket
 (require gigls/unsafe)
+
+;;; File:
+;;;   utils.rkt
+;;; Author:
+;;;   Joey, Abraham and Corey
+;;; Summary:
+;;;   A few sample utilities, created as part of a lab on GitHub.
 ;;; Procedure:
 ;;;   nums
 ;;; Parameters:
